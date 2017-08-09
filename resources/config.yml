@@ -1,0 +1,5 @@
+---
+# Set your parameter here
+player_count: 999999
+max_count: 100000
+...

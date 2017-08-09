@@ -1,0 +1,6 @@
+name: SlotChanger
+author:  IG 
+version: 1.2.6
+api: [3.0.0-ALPHA5]
+main: IG\SlotChanger\Main
+
