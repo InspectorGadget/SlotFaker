@@ -1,4 +1,11 @@
 <?php
+/**
+ * Created by PhpStorm.
+ * User: RTG
+ * Date: 9/8/2017
+ * Time: 7:46 PM
+ */
+
 namespace IG\SlotChanger;
 
 use pocketmine\event\server\QueryRegenerateEvent;
